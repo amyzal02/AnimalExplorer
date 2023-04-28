@@ -1,4 +1,4 @@
-# PrototypeDesignPattern
+# Animal Explorer: Software Engineering Extra Credit
 
 Here's a better about me page than the about me option (I hate printing paragraphs). 
 
