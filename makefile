@@ -6,8 +6,8 @@ clean:
 	rm bin/**/*.class
 
 compile:
-	javac -d bin -sourcepath src src/**/**/*.java
+	javac -d bin -sourcepath src src/**/*.java
 
-demo:
-	make compile
+demo: 
 	java -cp bin client.Demo
+
